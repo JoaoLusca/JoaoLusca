@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">Olá! Sou estudante de Ciência da Computação com grande interesse em desenvolvimento de software e constante busca por aprendizado. Tenho familiaridade com diversas linguagens de programação e gosto de explorar diferentes áreas da computação, de algoritmos a aplicações web.<br><br>Além da tecnologia, sou comprometido com meu desenvolvimento pessoal e saúde. Treino regularmente há quase dois anos, sigo uma alimentação equilibrada e estou focado em atingir metas de composição corporal com consistência e disciplina.<br><br>Fato curioso: Quase toda vida quis ser biólogo, para no final virar um cientista da computação.</p>
+<p text-align="justify">Sou João Lucas, estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal do Paraná (IFPR), campus Londrina. Sou natural de Brasília e atualmente resido em Londrina.
+
+Atuo com desenvolvimento frontend e backend, com maior volume de projetos em frontend, área na qual tenho mais experiência prática. Trabalho com HTML, CSS e JavaScript, utilizando frameworks modernos como React e Vue.js para construção de interfaces responsivas, performáticas e orientadas à experiência do usuário.
+
+No backend, possuo experiência com Java, C, Python e C#, aplicando conceitos de lógica, estrutura de dados, integração entre sistemas e desenvolvimento orientado a boas práticas.
+
+Também tenho conhecimentos sólidos em UI Design e UX, o que me permite desenvolver soluções completas, unindo código, usabilidade e estética. Além disso, possuo formação complementar por meio de cursos em tráfego pago e marketing digital, áreas que utilizo para alinhar desenvolvimento técnico com objetivos de negócio.
+
+Já realizei diversos trabalhos freelancer, desenvolvendo sites e soluções digitais para pequenos negócios e profissionais liberais, sempre com foco em entrega funcional, clareza de comunicação e geração de valor real para o cliente.</p>
 
 ###
 
@@ -19,6 +27,8 @@
 ###
 
 <div align="left">
+  <img height="40" src="https://img.icons8.com/color/48/wordpress.png" alt="wordpress"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
@@ -26,13 +36,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="40" height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
+  <img width="12" />
+  <img height="40" src="https://img.icons8.com/office/40/react.png" alt="react"/>
+  <img width="12" />
+  <img height="40" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
+  <img width="12" />
+  <img height="40" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>
+  <img width="12" />
+  <img height="40" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
+  <img width="12" />
+  <img  height="40" src="https://img.icons8.com/fluency/48/vuejs.png" alt="vuejs"/>
+  <img width="12" />
+  <img height="40" src="https://img.icons8.com/color/48/docker.png" alt="docker"/>
+  <img width="12" />
+  <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -48,10 +73,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/joão-lucas-gomes-de-moura-523a64345/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaolucasgm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/code.cortexx/" target="_blank">
+  <a href="https://www.instagram.com/codecorttexmarketing/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
